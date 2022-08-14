@@ -2,3 +2,5 @@ New file to check if git captures the change in this folder and then adding it t
 after that check it on git hub if the changes are reflecting 
 It worked and now this is second time changes are being done.
 so now I will check if I can send this to github and how git hub keeps the track.
+
+Adding this line in feature branch, let see what happens

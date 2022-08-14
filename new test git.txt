@@ -1,0 +1,2 @@
+New file to check if git captures the change in this folder and then adding it to staging/index area and pushing it to github,
+after that check it on git hub if the changes are reflecting 
